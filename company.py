@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-DATASET_PATH = "D:\Simran_DMV_LAB\company_dataset (1).csv"
+DATASET_PATH = "company_dataset.csv"
 
 def analyze_companies(path):
     # Load the dataset
